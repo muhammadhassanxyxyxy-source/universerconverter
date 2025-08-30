@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://universeconverter.vercel.app/sitemap.xml
+Sitemap: https://universerconverter.vercel.app/sitemap.xml
